@@ -1,3 +1,4 @@
+//
 //// Interpreter simplified infix expression with {+,-,*,/} operations;
 //// Keyboard input, single digit number only and no spaces are allowed;
 //// compile: $>g++ prog1.cpp
