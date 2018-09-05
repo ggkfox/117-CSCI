@@ -1,0 +1,13 @@
+program
+    int a, b, c;
+    double d
+    begin
+        a = 3*(5+2);
+        b = (3 + 4) * 5;
+        c = a;
+        d = 1/2;
+        print a;
+        print b;
+        print c;
+        print (2+3)*7 + 2^3;
+    end
